@@ -17,3 +17,4 @@ Steps in Applying FFT to financial data:
 3. Analysis: Identify significant frequencies and their amplitudes to understand the periodic components.
 4. Post-processing: Filter out unwanted frequencies and transform back to the time domain if needed, along with the overlay of processed signal and the original signal.
 
+Read more about it here: https://medium.com/p/e3bdde7bcee6
